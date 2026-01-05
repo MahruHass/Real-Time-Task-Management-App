@@ -1,0 +1,15 @@
+body { 
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; 
+  padding: 16px; 
+  background: #f6f8fa;
+  margin: 0;
+}
+
+h1, h2, h3 { 
+  color: #172b4d; 
+}
+
+#root {
+  max-width: 100%;
+  overflow-x: hidden;
+}
